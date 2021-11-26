@@ -1,4 +1,5 @@
-//Uc-2 for pay roll () Set eventlistener when document is loaded 
+//UC 2  Set event listeners for Employe payroll
+
 window.addEventListener('DOMContentLoaded',(event)=>
 {
     const name=document.querySelector("#name");
